@@ -44,4 +44,12 @@
 * Pay to a mobile number.
 * Pay to another buy goods till.
 ### Phone repair
-### Training ground for mostly computer packages
+* Repair cracked screen.
+* Fix iphones and android phones.
+* Up fuel cell charges phone with hydrogen.
+* Sell second-hand repaired phones.
+* Repair and replace phone warranty.
+### Training ground 
+* Train the 12 computer packages units.
+* Offer a course certificate.
+* Publish training notes.
