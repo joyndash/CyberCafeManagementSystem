@@ -12,7 +12,7 @@ The customer session manager will also have an option for calling for help from 
 5. Make payment
 6. End a browsing session
 
-## cashier session Manager
+## cashier 
 This is a standalone frontend system written in java that will get list of customers and their charges to the database backend.
 The cashier session manager will also have an option for tracking cyber cafe income.
 ### Features
@@ -21,7 +21,7 @@ The cashier session manager will also have an option for tracking cyber cafe inc
 3. Collect money based on usage by customers
 4. Track cyber cafe income
 
-## Administrator session Manager
+## Administrator 
 This is a standalone frontend system written in java that will put requests for help from customers,patch the changed passwords and get the total number of computers to the database backend.
 The administrator session manager will also have an option for adding/editing and disabling users of the system.
 ### Features
@@ -30,8 +30,8 @@ The administrator session manager will also have an option for adding/editing an
 3. Add/edit and disable users of the system
 4. Add/update the computers
 
-## Manager/owner session Manager
-This is a standalone frontend system written in java that will post number of customers,usage duration and daily cash collected in the cyber to the database backend.
+## Manager/owner 
+This is a frontend system written in PHP that will post number of customers,usage duration and daily cash collected in the cyber to the database backend.
 The owner session manager will also have an option for assigning internet in the system.
 ### Features
 1. view number of customers
@@ -39,8 +39,8 @@ The owner session manager will also have an option for assigning internet in the
 3. view daily cash collected
 4. Assign internet
 
-## Database session Manager
-This is a standalone backend system written in java that will post all the tracked information of computers from the frontends.
+## Database 
+This is a backend system written in MYSQL that will post all the tracked information of computers from the frontends.
 The database session manager will serve as the centre of information in the system.
 ### Features
 #### customer
