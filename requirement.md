@@ -23,8 +23,11 @@
 **Usertypes**(*Administrator,cashier and manager*).
 ### Cashier:
 * View list of customers currently in the cyber.
-* Tracks cyber cafe income.
+* View completed sessions by customers.
+* View duration of usage.
+* View bill amount.
 * Collect money based on usage by customers.
+* The cashier have an option of resetting the customer menu.
 ### Manager/owner of the cyber:
 * View number of reports from the system.
 * View number of customers who visited the cyber and the duration of usage.
